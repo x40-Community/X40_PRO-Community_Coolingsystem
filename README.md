@@ -3,6 +3,8 @@ The X40 community cooling system replaces the ailing part cooling system from We
 
 For more informations see: http://www.x40-community.org/index.php/the-3d-printer/weedo-x40-coolingsystem
 
+# Please make sure to use the GreenTEC Pro material when printing the hotend cover. Other materials are unsuitable and cannot take the heat! 
+
 ![image](http://www.x40-community.org/images/x40/X40_Coolingsystem_2.jpg)
 
 ## The X40 Community Coolingsystem has the following advantages:
