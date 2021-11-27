@@ -1,0 +1,7 @@
+License Hotend Cover
+
+Modifying, publishing and passing on the STL files of the hotend cover is not permitted.
+In addition, the sale of print models that were created with this STL file is also not permitted.
+You can create as many print models as you want for your own use.
+
+Copyright H. Klemm 
