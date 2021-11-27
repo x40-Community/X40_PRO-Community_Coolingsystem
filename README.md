@@ -1,6 +1,6 @@
 # X40-Community Coolingsystem
 The X40 community cooling system replaces the ailing part cooling system from Weedo. In particular, materials that require a lot of cooling are printed much better.
-For more informations see: (http://www.x40-community.org/index.php/the-3d-printer/weedo-x40-coolingsystem)
+For more informations see: http://www.x40-community.org/index.php/the-3d-printer/weedo-x40-coolingsystem
 
 ![image](http://www.x40-community.org/images/x40/X40_Coolingsystem_2.jpg)
 
