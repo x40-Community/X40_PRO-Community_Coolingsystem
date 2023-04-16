@@ -1,5 +1,7 @@
-# X40-Community Coolingsystem
-The X40 community cooling system replaces the ailing part cooling system from Weedo. In particular, materials that require a lot of cooling are printed much better.
+# X40 PRO - Community Coolingsystem
+X40 PRO is a hardware and software optimization for the Weedo X40V1 and X40V2. You can only use the full range of functions of the X40 PRO system with the revised cooling system.
+
+The X40 PRO community cooling system replaces the ailing part cooling system from Weedo. In particular, materials that require a lot of cooling are printed much better.
 
 For more informations see: http://www.x40-community.org/index.php/the-3d-printer/weedo-x40-coolingsystem
 
